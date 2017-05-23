@@ -1,5 +1,6 @@
 package arqdesis_aula03;
 
+//teste
 public class ClienteTeste {
 	public static void main(String[] args) {
 		Cliente cliente = new Cliente(3, "Bela Lugosi", null);
