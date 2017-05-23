@@ -1,5 +1,6 @@
 package arqdesis_aula04;
 
+//model
 public class Cliente {
 	private int id;
 	private String nome;

@@ -1,5 +1,6 @@
 package arqdesis_aula04;
 
+//service
 public class ClienteTO {
 	private int id;
 	private String nome;

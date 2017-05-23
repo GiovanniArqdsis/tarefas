@@ -7,6 +7,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
+//dao
 public class ClienteDAO {
 	
 	public void incluir(ClienteTO to) {
