@@ -7,8 +7,10 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
+//dao
 public class ClienteDAO {
 	
+	//Classe DAO
 	static {
 		try {
 			Class.forName("com.mysql.jdbc.Driver");

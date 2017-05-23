@@ -2,6 +2,7 @@ package arqdesis_aula02;
 
 import java.util.ArrayList;
 
+//model
 public class Cliente {
 	private int id;
 	private String nome;

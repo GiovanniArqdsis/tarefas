@@ -3,6 +3,7 @@ package arqdesis_aula02;
 public class ClienteTeste {
 	public static void main(String[] args) {
 		Cliente cliente = new Cliente(3, "Bela Lugosi", null);
+		Cliente cliente = new Cliente(5, "Rodrigo Bossini", null);
 		cliente.criar();
 		cliente.carregar();
 		System.out.println(cliente);
